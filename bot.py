@@ -4,9 +4,9 @@ import requests
 
 # Config:
 
-token = 'NjE3OTM4MDE3NjkyMTU1OTE2.XWyZsg.p57EufcwS8qyJOTIsKJisl5vXBg'
+token = ''   #Discord token
 apiSite = 1
-apiUrl = 'https://api.rust-servers.info/info/2625'
+apiUrl = ''   #https://api.rust-servers.info/info/(id)
 
 
 client = discord.Client()
